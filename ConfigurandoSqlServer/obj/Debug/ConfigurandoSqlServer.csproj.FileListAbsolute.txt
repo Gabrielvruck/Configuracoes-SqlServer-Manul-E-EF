@@ -1,0 +1,13 @@
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\ConfigurandoSqlServer.exe.config
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\ConfigurandoSqlServer.exe
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\ConfigurandoSqlServer.pdb
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.csproj.AssemblyReference.cache
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.exe
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.pdb
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\EntityFramework.dll
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\EntityFramework.xml
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gabriel Vruck\source\repos\ConfigurandoSqlServer\ConfigurandoSqlServer\obj\Debug\ConfigurandoSqlServer.csproj.CopyComplete
